@@ -1,0 +1,12 @@
+name: JaronTroll
+version: '${project.version}'
+main: de.maxbossing.jarontroll.JaronTroll
+api-version: 1.19
+prefix: JaronTroll
+authors: [ Max ]
+description: Heheheha
+website: maxbossing.de
+
+commands:
+  troll:
+
