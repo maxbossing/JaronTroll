@@ -1,6 +1,6 @@
 # JaronTroll
 
-Probably the shittiest trollplugin in existence
+TrollPlugin written in 20 minutes
 
 ---
 
@@ -44,7 +44,7 @@ following options are supported:
 
 ### /j
 
-could give you many wierd items, but I only implemented one lol
+gives you an item
 
 following options are supported:
 
@@ -69,9 +69,7 @@ JaronTroll.jar OK
 
 You're good to go
 
-> If you dont use linux, go figure out for yourself how to do this
-
 ---
 
-## I'm probably never gonna update this repository ever again So don't bother opening issues or Pull requests
+## This Repository won't get any updates in the future
 
